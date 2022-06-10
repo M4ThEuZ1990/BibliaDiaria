@@ -1,0 +1,32 @@
+*{font-family: sans-serif;}
+
+body{
+    background-color: black;
+    color: white;
+    align-items: center;
+    align-content: center;
+}
+
+body{display: flex;
+flex-direction: column;}
+
+body img{max-width: 200px;
+max-height: 200px;}
+
+input{border:200px;
+padding: 20px;
+margin-bottom: 30px;
+width: 400px;}
+
+button{border: none;
+    color: white;
+background-color: blueviolet;
+padding: 20px;
+width: 250px;
+cursor: pointer;
+transition: filter .2s}
+
+button:hover {
+    filter: brightness(1.2);
+    cursor: pointer;
+  }
