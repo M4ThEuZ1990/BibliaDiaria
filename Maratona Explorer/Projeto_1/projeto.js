@@ -2,7 +2,7 @@
 const elementoVersiculos = document.querySelector("#versiculo")
 const inputPergunta = document.querySelector ("#inputPergunta")
 
-const versiculos = ['orque sou eu que conheço os planos que tenho para vocês", diz o Senhor, "planos de fazê-los prosperar e não de lhes causar dano, planos de dar-lhes esperança e um futuro.',
+const versiculos = ['porque sou eu que conheço os planos que tenho para vocês", diz o Senhor, "planos de fazê-los prosperar e não de lhes causar dano, planos de dar-lhes esperança e um futuro.',
 
 'Eu sou a ressurreição e a vida. Aquele que crê em mim, ainda que morra, viverá e quem vive e crê em mim, não morrerá eternamente. Você crê nisso',
 
